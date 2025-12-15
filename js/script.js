@@ -26023,7 +26023,9 @@ function QN() {
                         className: "px-4 py-2 text-sm font-medium text-slate-600 hover:text-indigo-600 transition-colors rounded-lg hover:bg-indigo-50",
                         children: l.name
                     }, l.name)), w.jsx("a", {
-                        href: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_692ac440f3f6b84b38b5157d/2d424028f_PersonalResume.pdf",
+                        href: "resume.pdf",
+
+                        //href: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_692ac440f3f6b84b38b5157d/2d424028f_PersonalResume.pdf",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: w.jsxs(os, {
@@ -26066,7 +26068,8 @@ function QN() {
                         className: "block w-full text-left px-4 py-3 text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 rounded-lg transition-colors",
                         children: l.name
                     }, l.name)), w.jsx("a", {
-                        href: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_692ac440f3f6b84b38b5157d/2d424028f_PersonalResume.pdf",
+                        href: "resume.pdf",
+                       // href: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_692ac440f3f6b84b38b5157d/2d424028f_PersonalResume.pdf",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "block mt-4",
