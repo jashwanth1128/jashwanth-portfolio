@@ -26155,7 +26155,8 @@ function GN() {
                 },
                 className: "text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-slate-900 mb-6",
                 children: ["Hi, I'm", " ", w.jsx("span", {
-                    className: "text-white",
+                    className: "text-slate-900"
+,
 children: "Jashwanth"
 
                 })]
